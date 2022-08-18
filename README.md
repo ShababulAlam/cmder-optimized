@@ -1,2 +1,2 @@
 # cmder-optimized
-CMDER terminal files for optimized experince
+CMDER terminal files for optimized experience
